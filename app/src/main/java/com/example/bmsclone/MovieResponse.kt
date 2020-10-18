@@ -1,4 +1,5 @@
 package com.example.bmsclone
 
-class MovieResponse {
-}
+data class MovieResponse (
+    val results: List<Movie>
+)

@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BMS Clone</string>
-    <string name="error_msg">Oops! Something Went Wrong :/</string>
-    <string name="roboto">sans-serif-medium</string>
+    <string name="error_msg">Oops! Something Went Wrong :(</string>
+    <string name="no_internet">Oops! Please Check your Internet Connection.</string>
 </resources>
